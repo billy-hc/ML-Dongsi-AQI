@@ -81,7 +81,7 @@ That was why I put the `requirements.txt` in the `dashboard` folder as well.
 ## About Me
 - **Name**: William Heria Chandra
 - **Email Address**: nbwilliam.hc@gmail.com
-- **Dicoding ID**: [maliki_borneo](https://www.dicoding.com/users/william_hc/)
+- **Dicoding ID**: [william_hc](https://www.dicoding.com/users/william_hc/)
 
 ## Credit
 Big thanks to
