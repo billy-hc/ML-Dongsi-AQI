@@ -88,4 +88,5 @@ Big thanks to
 - **Name**: Reza Maliki Akbar
 - **Email Address**: rezamaliki.akbar@gmail.com
 - **Dicoding ID**: [maliki_borneo](https://www.dicoding.com/users/maliki_borneo/)
-for his help on my project
+
+for his help on his project
