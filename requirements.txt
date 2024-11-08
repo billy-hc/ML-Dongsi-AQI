@@ -1,0 +1,17 @@
+Name: numpy
+Version: 1.26.4
+
+Name: streamlit
+Version: 1.39.0
+
+Name: pandas
+Version: 2.2.2
+
+Name: seaborn
+Version: 0.13.2
+
+Name: matplotlib
+Version: 3.9.0
+
+Name: statsmodels
+Version: 0.14.4
